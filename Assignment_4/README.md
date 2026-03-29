@@ -11,7 +11,7 @@ This folder contains all deliverables for Assignment 4 of CSCI611.
 | Source code (`.py` / `.ipynb`) | Implementation of the assignment |
 | `report.pdf` | PDF report submitted to Canvas |
 | `screenshots/` | Screenshots of successful execution (if not using a notebook) |
-| `data/` / images | Any image or dataset used for this assignment |
+| `data/` / `images/` | Any image or dataset used for this assignment |
 
 ## Requirements
 
